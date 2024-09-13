@@ -1,0 +1,19 @@
+Package: NewRcppPackage
+Title: Effcient Sorting of Numeric Vector using Rcpp
+Version: 0.0.0.9000
+Authors@R: 
+    person(Sean, Hershkowitz, , "sean.hershkowitz@ufl.edu")
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description:This package provides a fast, C++-backed method for sorting numeric vectors using Rcpp. It is ideal for performance-intensive applications where sorting speed is a priority. 
+License: MIT + file LICENSE
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+LinkingTo: 
+    Rcpp
+Imports: 
+    Rcpp
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

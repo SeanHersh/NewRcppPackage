@@ -1,0 +1,3 @@
+useDynLib(NewRcppPackage, .registration = TRUE)
+import(Rcpp)
+exportPattern("^[[:alpha:]]+")
