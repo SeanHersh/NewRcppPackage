@@ -35,7 +35,7 @@ This command will build and install the package on your local machine.
 4. **Load the package**
 After successful installation, load the package using the library() function:
 
-library(NewRcppPackage)
+```library(NewRcppPackage)```
 
 5. **Test the sorting function**
 To ensure the package is working, you can test the sort_cpp() function. Run the following:
