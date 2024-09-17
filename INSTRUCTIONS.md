@@ -1,11 +1,9 @@
 ---
 title: "Installation Instructions for NewRcppPackage"
 author: "Sean Hershkowitz"
-date: "`r Sys.Date(9/16/2024)`"
+date: "`r Sys.Date()`"
 output:
-  html_document:
-    toc: true
-    toc_depth: 2
+  html_document
 ---
 
 
