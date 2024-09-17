@@ -13,7 +13,7 @@ This guide will walk you through the installation process for the `NewRcppPackag
 - `devtools` package installed: `install.packages("devtools")`
 - RTools (for Windows users).
 
-##Steps:
+## Steps:
  ```bash
 1. Clone the repository
 Run the following in the bash terminal:
