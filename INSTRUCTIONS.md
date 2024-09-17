@@ -1,7 +1,7 @@
 ---
 title: "Installation Instructions for NewRcppPackage"
 author: "Sean Hershkowitz"
-date: "`r Sys.Date()`"
+date: "2024-09-16"
 output:
   html_document
 ---
