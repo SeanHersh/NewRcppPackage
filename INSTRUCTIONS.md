@@ -1,6 +1,5 @@
 ---
 title: "Installation Instructions for NewRcppPackage"
-output: html_document
 ---
 
 # Installation Instructions for NewRcppPackage
